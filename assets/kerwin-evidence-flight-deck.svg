@@ -1,0 +1,94 @@
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kerwin Evidence Flight Deck</title>
+  <desc id="desc">A dark technical dashboard describing Kerwin as an AI product manager focused on data quality, education benchmarks, cloud native delivery, and agent-friendly documentation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08111F"/>
+      <stop offset="0.58" stop-color="#0D1B2A"/>
+      <stop offset="1" stop-color="#102033"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="120" y1="118" x2="1156" y2="430" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#55C7F3"/>
+      <stop offset="0.52" stop-color="#39D98A"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="cloudGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(910 180) rotate(90) scale(210)">
+      <stop stop-color="#55C7F3" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#55C7F3" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="jadeGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(710 356) rotate(90) scale(200)">
+      <stop stop-color="#39D98A" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#39D98A" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#020817" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="520" rx="34" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1278" height="518" rx="33" stroke="#28445C" stroke-opacity="0.72"/>
+  <rect x="22" y="22" width="1236" height="476" rx="26" stroke="#D9E8EF" stroke-opacity="0.08"/>
+  <circle cx="910" cy="180" r="240" fill="url(#cloudGlow)"/>
+  <circle cx="710" cy="356" r="230" fill="url(#jadeGlow)"/>
+
+  <g opacity="0.20">
+    <path d="M84 96H1196" stroke="#D9E8EF"/>
+    <path d="M84 424H1196" stroke="#D9E8EF"/>
+    <path d="M588 56V464" stroke="#D9E8EF" stroke-opacity="0.55"/>
+    <path d="M84 260H1196" stroke="#28445C"/>
+  </g>
+
+  <g transform="translate(74 64)">
+    <text x="0" y="18" fill="#A9BBC8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">KERWIN / AI PRODUCT SYSTEMS</text>
+    <text x="0" y="104" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="72" font-weight="780">Kerwin</text>
+    <text x="2" y="148" fill="#D9E8EF" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="620">AI Product Manager</text>
+    <text x="2" y="184" fill="#A9BBC8" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">data quality -> education benchmarks -> cloud-native delivery</text>
+    <text x="2" y="214" fill="#A9BBC8" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16">Turning traditional-industry pain points into evaluated AI workflows and agent-readable product loops.</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="76" y="328" width="458" height="98" rx="22" fill="#0C1A2A" stroke="#28445C"/>
+    <text x="104" y="361" fill="#55C7F3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">CURRENT POSITION</text>
+    <text x="104" y="392" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="700">Tencent / cloud-native business</text>
+    <text x="104" y="417" fill="#A9BBC8" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15">Former AI infra track at Seeles. Targeting AI product manager roles.</text>
+  </g>
+
+  <path d="M704 154C770 108 870 112 932 166" stroke="url(#rail)" stroke-width="2.5"/>
+  <path d="M932 166C992 222 986 320 916 372" stroke="url(#rail)" stroke-width="2.5"/>
+  <path d="M916 372C830 424 730 392 692 312" stroke="url(#rail)" stroke-width="2.5"/>
+  <path d="M692 312C652 244 660 194 704 154" stroke="url(#rail)" stroke-width="2.5"/>
+
+  <g transform="translate(642 104)" filter="url(#softShadow)">
+    <rect width="178" height="112" rx="22" fill="#0B1827" stroke="#55C7F3" stroke-opacity="0.72"/>
+    <text x="24" y="38" fill="#55C7F3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">01 / DATA</text>
+    <text x="24" y="68" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19" font-weight="720">Quality control</text>
+    <text x="24" y="92" fill="#A9BBC8" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">controllable distribution</text>
+  </g>
+
+  <g transform="translate(890 152)" filter="url(#softShadow)">
+    <rect width="206" height="120" rx="22" fill="#0B1827" stroke="#39D98A" stroke-opacity="0.70"/>
+    <text x="24" y="38" fill="#39D98A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">02 / EVAL</text>
+    <text x="24" y="68" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19" font-weight="720">Education benchmarks</text>
+    <text x="24" y="92" fill="#A9BBC8" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">leaderboard, bias, transfer</text>
+  </g>
+
+  <g transform="translate(720 318)" filter="url(#softShadow)">
+    <rect width="226" height="118" rx="22" fill="#0B1827" stroke="#A78BFA" stroke-opacity="0.72"/>
+    <text x="24" y="38" fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">03 / DELIVERY</text>
+    <text x="24" y="68" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="19" font-weight="720">Cloud-native loops</text>
+    <text x="24" y="92" fill="#A9BBC8" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">agent-friendly docs</text>
+  </g>
+
+  <g transform="translate(994 334)">
+    <rect x="0" y="0" width="194" height="92" rx="18" fill="#F3F8FB" fill-opacity="0.08" stroke="#D9E8EF" stroke-opacity="0.14"/>
+    <text x="22" y="30" fill="#A9BBC8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.2">CONTACT</text>
+    <text x="22" y="56" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700">kerwin01130224</text>
+    <text x="22" y="76" fill="#A9BBC8" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">@gmail.com</text>
+  </g>
+
+  <g transform="translate(76 456)">
+    <text x="0" y="0" fill="#A9BBC8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.4">SHAANXI NORMAL UNIVERSITY / MASTER</text>
+    <text x="324" y="0" fill="#28445C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">|</text>
+    <text x="348" y="0" fill="#A9BBC8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.0">CHENGDU UNIVERSITY OF INFORMATION TECHNOLOGY / BACHELOR</text>
+  </g>
+</svg>
