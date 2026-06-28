@@ -1,50 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,45:14B8A6,100:22C55E&height=190&section=header&text=Kerwin&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Education%20%7C%20Cloud%20Tooling%20%7C%20Developer%20Automation&descSize=18&descAlignY=59" alt="Kerwin profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:14B8A6&height=205&section=header&text=Kerwin&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Product%20Manager%20%7C%20Education%20Benchmarks%20%7C%20Cloud%20Native%20%7C%20Agent%20Docs&descSize=17&descAlignY=58" alt="Kerwin profile banner" />
 </div>
 
 <div align="center">
 
+[![AI Product Manager](https://img.shields.io/badge/Target-AI%20Product%20Manager-2563EB?style=for-the-badge)](#product-thesis)
+[![Tencent](https://img.shields.io/badge/Now-Tencent%20Cloud%20Native-0052D9?style=for-the-badge)](#experience)
+[![Email](https://img.shields.io/badge/Email-kerwin01130224%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerwin01130224@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Kerwin0224-181717?style=for-the-badge&logo=github)](https://github.com/Kerwin0224)
-![Tencent](https://img.shields.io/badge/Tencent-Cloud%20%26%20Tooling-0052D9?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-AI%20Education-16A34A?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-CLI%20Workflows-0F172A?style=for-the-badge)
 
 </div>
 
 ## Hi, I'm Kerwin
 
-我关注 AI 教育、云工具链和开发者自动化：把复杂流程沉淀成可复用的 CLI、Skill、文档和数据处理工具。
+I am building toward an **AI Product Manager** role, with hands-on experience across AI infrastructure, cloud-native business, education benchmarks, synthetic-data quality control, and agent-friendly documentation systems.
 
-I build practical automation around AI-assisted education, cloud operations, document workflows, and developer productivity.
+我的长期方向是：用 AI 解决传统行业里的真实痛点，把能力落到具体业务、具体场景和可验证的产品闭环中。
 
-## Focus
+## Product Thesis
 
-- AI education tooling: question-answer extraction, courseware transformation, evaluation workflows.
-- Cloud and CLI workflows: Tencent Cloud/TCCLI helpers, TKE command guides, operation playbooks.
-- Knowledge automation: turning messy documents, screenshots, and repeated tasks into structured artifacts.
-- Product-minded engineering: small tools with clear entry points, repeatable commands, and durable outputs.
+Great AI products are not just model wrappers. They need:
+
+- **Grounded scenarios**: start from a real workflow, not from a demo prompt.
+- **Controllable data quality**: make synthetic-data quality distributions measurable, steerable, and auditable.
+- **Evaluation discipline**: build benchmark surfaces that expose capability, bias, failure modes, and operational cost.
+- **Loop engineering**: turn product usage, documentation, eval feedback, and agent workflows into a continuous improvement loop.
+- **Business landing**: connect AI capability to deployment, adoption, ROI, and industry-specific constraints.
+
+## What I Work On
+
+| Direction | Product question | Evidence |
+| --- | --- | --- |
+| Synthetic data engineering | How can we generate higher-quality data with controllable quality distribution instead of one-off samples? | Data-quality pipelines, retention/evidence gates, manifest-backed analysis surfaces |
+| Education benchmark and evaluation | How do we evaluate AI tutoring and education workflows with repeatable, comparable baselines? | Benchmark fact stores, leaderboard/bias analysis, held-out tutoring transfer framing |
+| AI infrastructure | How should agent/model systems expose reliable, observable, reusable infrastructure? | Previous AI infra work at Seeles, Skill/MCP routing, request/runtime discipline |
+| Cloud native business | How do AI workflows run in production cloud environments with clear operation surfaces? | Current cloud-native work at Tencent, Tencent Cloud/TCCLI tooling, TKE guides |
+| Agent-friendly documentation | How can docs become executable context for agents and humans? | Loop engineering for automation-ready docs, SSOT-oriented adapters, CLI-first guides |
+
+## Experience
+
+- **Tencent**: cloud-native related business, developer/cloud operation workflows, and automation surfaces.
+- **Seeles**: AI infrastructure related business, with attention to model/application runtime and production workflow reliability.
+- **Research and product exploration**: controllable synthetic-data quality, AI education benchmark design, evaluation baselines, and data evidence infrastructure.
+
+## Education
+
+- **Master's degree**, Shaanxi Normal University
+- **Bachelor's degree**, Chengdu University of Information Technology
+
+## Selected Work
+
+| Project | Why it matters | Link |
+| --- | --- | --- |
+| Education benchmark and evidence infra | Turns education-AI claims into comparable benchmark, leaderboard, bias, and transfer-evidence surfaces. | Research track |
+| Controllable synthetic-data quality framework | Studies how to make synthetic-data quality distribution controllable and higher-quality for downstream AI tasks. | Research track |
+| Image2PPT | Converts courseware screenshots into editable PPT through image layering, super-resolution, OCR, and VLM reasoning. | [Repo](https://github.com/Kerwin0224/Image2PPT) |
+| QA from PDFs | Converts paired question/answer PDFs into validated QA JSONL for education datasets and benchmark construction. | [Repo](https://github.com/Kerwin0224/EDUQA-from-pdfs) |
+| Tencent Cloud TCCLI Skill | Standardizes Tencent Cloud API operations through `tccli`, making cloud workflows more agent-operable. | [Repo](https://github.com/Kerwin0224/tencentcloud-tccli-skill) |
+| cc-switch-adapter | Routes skill and MCP operations through a centralized SSOT to prevent scattered agent-tooling state. | [Repo](https://github.com/Kerwin0224/cc-switch-adapter) |
 
 ## Toolbox
 
 <p>
+  <img src="https://img.shields.io/badge/Product%20Strategy-0F172A?style=flat-square" alt="Product Strategy" />
+  <img src="https://img.shields.io/badge/AI%20Evaluation-2563EB?style=flat-square" alt="AI Evaluation" />
+  <img src="https://img.shields.io/badge/Synthetic%20Data-14B8A6?style=flat-square" alt="Synthetic Data" />
+  <img src="https://img.shields.io/badge/Cloud%20Native-0052D9?style=flat-square" alt="Cloud Native" />
+  <img src="https://img.shields.io/badge/Agent%20Workflows-16A34A?style=flat-square" alt="Agent Workflows" />
+  <img src="https://img.shields.io/badge/Benchmarking-7C3AED?style=flat-square" alt="Benchmarking" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/GitHub%20CLI-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub CLI" />
-  <img src="https://img.shields.io/badge/Tencent%20Cloud-0052D9?style=flat-square&logo=tencentqq&logoColor=white" alt="Tencent Cloud" />
 </p>
 
-## Selected Projects
+## Current Loop
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [tencentcloud-tccli-skill](https://github.com/Kerwin0224/tencentcloud-tccli-skill) | 腾讯云 TCCLI API 助手，统一通过 `tccli` 调用腾讯云 API。 | CLI, Cloud |
-| [tke-cli-guide](https://github.com/Kerwin0224/tke-cli-guide) | TKE 命令行使用与运维指南。 | Docs, Cloud |
-| [Image2PPT](https://github.com/Kerwin0224/Image2PPT) | 将课件截图转换为可编辑 PPT，结合图像分层、超分和 OCR。 | Python, VLM |
-| [EDUQA-from-pdfs](https://github.com/Kerwin0224/EDUQA-from-pdfs) | 面向教育 PDF 的题目与答案配对流程。 | Shell, AI |
-| [GSW-WEB](https://github.com/Kerwin0224/GSW-WEB) | 面向教育场景的 Web 项目。 | TypeScript |
-| [cc-switch-adapter](https://github.com/Kerwin0224/cc-switch-adapter) | 将 Skill/MCP 操作路由到集中式 SSOT。 | Automation |
+```text
+Industry pain point
+  -> product scenario
+  -> agent-friendly documentation
+  -> controllable data generation
+  -> benchmark and evaluation
+  -> cloud-native delivery
+  -> feedback back into the product loop
+```
 
 ## GitHub Snapshot
 
@@ -53,14 +93,12 @@ I build practical automation around AI-assisted education, cloud operations, doc
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerwin0224&layout=compact&theme=transparent&hide_border=true" alt="Kerwin's top languages" />
 </div>
 
-## Current Direction
+## Contact
 
-```text
-AI education workflows       -> reusable datasets, QA pipelines, evaluation surfaces
-Cloud operation tooling      -> safer CLI flows, clearer guides, fewer manual steps
-Document automation          -> screenshots/PDFs/notes into editable structured outputs
-Developer productivity       -> skills, adapters, and command surfaces that stay maintainable
-```
+I am open to AI product roles, especially where product judgment, AI evaluation, data infrastructure, and industry landing all matter.
+
+- Email: [kerwin01130224@gmail.com](mailto:kerwin01130224@gmail.com)
+- GitHub: [Kerwin0224](https://github.com/Kerwin0224)
 
 <div align="center">
   <sub>Profile README maintained in <a href="https://github.com/Kerwin0224/Kerwin0224">Kerwin0224/Kerwin0224</a>.</sub>
