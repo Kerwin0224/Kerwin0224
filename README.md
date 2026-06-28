@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:14B8A6&height=205&section=header&text=Kerwin&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Product%20Manager%20%7C%20Education%20Benchmarks%20%7C%20Cloud%20Native%20%7C%20Agent%20Docs&descSize=17&descAlignY=58" alt="Kerwin profile banner" />
-</div>
+# Kerwin
+
+**AI Product Manager | Education Benchmarks | Synthetic Data Quality | Cloud Native | Agent-Friendly Docs**
+
+I turn AI capability into concrete workflows for traditional industries: grounded scenarios, controllable data quality, measurable evaluation, and production delivery.
 
 <div align="center">
 
@@ -11,7 +13,7 @@
 
 </div>
 
-## Hi, I'm Kerwin
+## Profile
 
 I am building toward an **AI Product Manager** role, with hands-on experience across AI infrastructure, cloud-native business, education benchmarks, synthetic-data quality control, and agent-friendly documentation systems.
 
